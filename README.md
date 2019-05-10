@@ -1,5 +1,6 @@
 # Docker Client
 
+
 [![Build Status](https://travis-ci.org/spotify/docker-client.svg?branch=master)](https://travis-ci.org/spotify/docker-client)
 [![codecov](https://codecov.io/github/spotify/docker-client/coverage.svg?branch=master)](https://codecov.io/github/spotify/docker-client?branch=master)
 [![Maven Central](https://img.shields.io/maven-central/v/com.spotify/docker-client.svg)](https://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.spotify%22%20docker-client)
