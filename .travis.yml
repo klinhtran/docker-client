@@ -49,6 +49,6 @@ after_success:
 # after_script:
 #   - sudo cat /var/log/upstart/docker.log
 
-branches:
-  only:
-    - master
+# branches:
+#   only:
+#     - master
