@@ -48,7 +48,3 @@ after_success:
 # this on every single build as the logs are verbose and noisy.
 # after_script:
 #   - sudo cat /var/log/upstart/docker.log
-
-branches:
-  only:
-    - master
